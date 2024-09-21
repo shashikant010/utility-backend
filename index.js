@@ -104,7 +104,7 @@ app.post("/get-ai-image",async(req,res)=>{
         'Content-Type': 'application/json',
         'X-Api-Version': 'v1',
         Accept: 'application/json',
-        Authorization: 'Bearer lmwr_sk_clfsHxiItt_3f6RyVqIj07X1F6yQCcmIKYxeKISyHcPUO5cZ'
+        Authorization: 'Bearer lmwr_sk_ytA8PrfnbT_8OJj7aMG2OELvz7SojkNmGyg59zKBc6o3rv3b'
       },
       body: JSON.stringify({
         prompt: prompt,
